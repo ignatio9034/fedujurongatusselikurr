@@ -1,0 +1,4 @@
+baseURL = "https://sheetmusic-come456.vercel.app"
+languageCode = "en-us"
+title = "Comes Love Sheet Music"
+theme = "hugo-theme-minos"
